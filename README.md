@@ -1,3 +1,7 @@
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for Leetcode DSA" src="art/header-light.png">
+</picture>
 # Leetcode-DSA
 Contains all Leetcode Questions which are accepted
 
