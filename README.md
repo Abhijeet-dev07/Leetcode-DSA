@@ -29,6 +29,7 @@ Contains all Leetcode Questions which are accepted
 | ------- |
 | [0027-remove-element](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -44,6 +45,7 @@ Contains all Leetcode Questions which are accepted
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
