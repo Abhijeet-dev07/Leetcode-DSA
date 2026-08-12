@@ -15,6 +15,7 @@ Contains all Leetcode Questions which are accepted
 | [0027-remove-element](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/1095-find-in-mountain-array) |
 | [1929-concatenation-of-array](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
@@ -24,6 +25,7 @@ Contains all Leetcode Questions which are accepted
 | [0001-two-sum](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +39,7 @@ Contains all Leetcode Questions which are accepted
 | [0088-merge-sorted-array](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
 |  |
@@ -50,6 +53,7 @@ Contains all Leetcode Questions which are accepted
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0268-missing-number) |
 | [1095-find-in-mountain-array](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/1095-find-in-mountain-array) |
 ## Interactive
 |  |
@@ -59,4 +63,12 @@ Contains all Leetcode Questions which are accepted
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/1095-find-in-mountain-array) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
