@@ -1,3 +1,4 @@
+// two pointers approach
 class Solution {
     public int longestMountain(int[] arr) {
 
