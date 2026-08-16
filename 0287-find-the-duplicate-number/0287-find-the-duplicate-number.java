@@ -1,3 +1,4 @@
+//  Asked in Microsoft
 class Solution {
     public int findDuplicate(int[] nums) {
         int i = 0;
