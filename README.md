@@ -16,6 +16,7 @@ Contains all Leetcode Questions which are accepted
 | [0088-merge-sorted-array](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0845-longest-mountain-in-array](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -35,6 +36,7 @@ Contains all Leetcode Questions which are accepted
 | [0027-remove-element](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0845-longest-mountain-in-array](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -58,6 +60,7 @@ Contains all Leetcode Questions which are accepted
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [1095-find-in-mountain-array](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/1095-find-in-mountain-array) |
 ## Interactive
 |  |
@@ -75,6 +78,7 @@ Contains all Leetcode Questions which are accepted
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,4 +87,12 @@ Contains all Leetcode Questions which are accepted
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0845-longest-mountain-in-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
