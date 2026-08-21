@@ -13,6 +13,7 @@ Contains all Leetcode Questions which are accepted
 | ------- |
 | [0001-two-sum](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0268-missing-number) |
@@ -28,6 +29,7 @@ Contains all Leetcode Questions which are accepted
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhijeet-dev07/Leetcode-DSA/tree/master/0268-missing-number) |
